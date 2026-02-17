@@ -1,4 +1,4 @@
 # Cornelius-Anson
-chingchingchongchong
+dugong project version 0.1
 
 
